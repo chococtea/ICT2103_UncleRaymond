@@ -12,5 +12,7 @@ https://youtu.be/c_AW7_kuOic
 
 ## To run the NoSQL Script:
 
-1.
-2.
+1. Open up NoSQLScript.txt
+2. Open up Mongo Shell
+3. Copy the entire script inside the NoSQLScript.txt & paste into the Mongo Shell
+4. Enjoy our database! :smile:
